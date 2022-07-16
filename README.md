@@ -1,10 +1,13 @@
 # Scripts
 
-This repository contains scripts for fast forwarding the small challenges faced by Developers throughout developement.
+Tool - Image Resource Script
 
-This repo includes:
+About 
 
-1. Image resource placing script. 
+This script will be helpful in making the developement process more fast and painless.
+By using this script you can just specify the image resource source path and destination
+path, and it will just copy that resource from source to the destination and then it will
+rename with the filename specified.
 
 # How It Works?
 
